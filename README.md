@@ -1,2 +1,2 @@
 # BlueSemester
-왔노
+
